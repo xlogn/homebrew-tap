@@ -6,6 +6,7 @@ Official Homebrew tap for **[Coldslayer (`csl`)](https://github.com/xlogn/coldsl
 
 ```bash
 brew tap xlogn/tap
+brew trust xlogn/tap
 brew install coldslayer
 csl init
 ```
